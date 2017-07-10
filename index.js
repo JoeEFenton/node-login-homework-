@@ -24,7 +24,7 @@ app.use(function (req, res, next){
     Boaz: 'pingpong',
     Brandon: 'beer'
   };
-  
+
   next();
 })
 
